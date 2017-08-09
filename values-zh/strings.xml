@@ -741,7 +741,7 @@
     <string name="tutorial_buildbridge_a">为了使交通更加流畅，我们需要强化主街。请为此选择乡下公路。</string>
     <string name="tutorial_buildbridge_b">点击准备规划道路的起始点和终点。位于水上的路线会自动建立起桥。</string>
     <string name="tutorial_buildbridge_c">好，树木就到此为止了。</string>
-    <string name="app_name_premium">TheoTown Premium</string>
+    <string name="app_name_premium">TheoTown附加服务</string>
     <string name="busstopinfo_title">公交车站</string>
     <string name="roadinfo_title">道路</string>
     <string name="roadinfo_trafficlights_off">关闭信号灯</string>
@@ -1047,7 +1047,7 @@
     <string name="settings_smoothscrolling">温和移动</string>
     <string name="settings_buildingtoolold">旧版建筑工具</string>
     <string name="settings_roadautojoin">自动链接道路工具</string>
-
+    
     <string name="tut_start00">这是一个很悠闲的地方，对吧？</string>
     <string name="tut_start01">不管怎样，让我们来建设一个大城市吧，但是可能我们要慢慢开始。</string>
     <string name="tut_start02">点击屏幕以移动地图。你可以用两根手指来缩放。</string>
@@ -1131,16 +1131,16 @@
     <string name="ci_general_citypoints">城市点数: %1$s</string>
     <string name="settings_ringbuildindicator">建筑进度显示</string>
 
-    <string name="draft_tool_car_follower00_title">Follow car</string>
-    <string name="draft_tool_car_follower00_text">Just follows a random car.</string>
-    <string name="draft_mltry_bunker00_title">Bunker</string>
+    <string name="draft_tool_car_follower00_title">跟踪车辆</string>
+    <string name="draft_tool_car_follower00_text">随机跟踪任何一辆车</string>
+    <string name="draft_mltry_bunker00_title">防空洞</string>
     <string name="draft_mltry_bunker00_text">Inhabitants feel save near bunkers. They\'re at least fire proof.</string>
     <string name="draft_zoneairport_title">Airfield</string>
     <string name="draft_zoneairport_text">Build your airport within this airfield zone.</string>
     <string name="draft_decoletters00_title">Letters</string>
     <string name="draft_decoletters00_text">Just some letters to give %1$s a personal touch.</string>
-    <string name="draft_feature_letters00_title">Letters decoration</string>
-    <string name="draft_feature_letters00_text">Some placeable letters that can be used for decorative purposes.</string>
+    <string name="draft_feature_letters00_title">字母装饰</string>
+    <string name="draft_feature_letters00_text">可用于装饰目的字母。</string>
 
 
 </resources>
