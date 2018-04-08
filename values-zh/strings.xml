@@ -1505,8 +1505,8 @@
     <string name="draft_draft_hfd_text">Happiness about fire departments.</string>
     <string name="draft_draft_hpk_title">Park happiness</string>
     <string name="draft_draft_hpk_text">Hapiness about parks.</string>
-    <string name="draft_draft_hsp_title">Sport happiness</string>
-    <string name="draft_draft_hsp_text">Happiness about sport facilities.</string>
+    <string name="draft_draft_hsp_title">运动设施的普及度</string>
+    <string name="draft_draft_hsp_text">市民针对运动设施普及化的满意度</string>
     <string name="draft_draft_hgen_title">总体幸福度</string>
     <string name="draft_draft_hgen_text">市民针对自己是否感到辛福</string>
     <string name="influence_passenger_bus_title">公交系统</string>
