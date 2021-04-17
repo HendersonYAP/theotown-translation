@@ -1131,16 +1131,16 @@
     <string name="ci_general_citypoints">城市点数: %1$s</string>
     <string name="settings_ringbuildindicator">建筑进度显示</string>
 
-    <string name="draft_tool_car_follower00_title">Follow car</string>
-    <string name="draft_tool_car_follower00_text">Just follows a random car.</string>
-    <string name="draft_mltry_bunker00_title">Bunker</string>
-    <string name="draft_mltry_bunker00_text">Inhabitants feel save near bunkers. They\'re at least fire proof.</string>
-    <string name="draft_zoneairport_title">Airfield</string>
-    <string name="draft_zoneairport_text">Build your airport within this airfield zone.</string>
-    <string name="draft_decoletters00_title">Letters</string>
-    <string name="draft_decoletters00_text">Just some letters to give %1$s a personal touch.</string>
-    <string name="draft_feature_letters00_title">Letters decoration</string>
-    <string name="draft_feature_letters00_text">Some placeable letters that can be used for decorative purposes.</string>
+    <string name="draft_tool_car_follower00_title">跟随车辆</string>
+    <string name="draft_tool_car_follower00_text">跟踪随机车辆.</string>
+    <string name="draft_mltry_bunker00_title">防空洞</string>
+    <string name="draft_mltry_bunker00_text">居民在防空洞附近时，他们会感到安全，防空洞是防火的</string>
+    <string name="draft_zoneairport_title">机场区域</string>
+    <string name="draft_zoneairport_text">把机场建在机场区域内</string>
+    <string name="draft_decoletters00_title">字母</string>
+    <string name="draft_decoletters00_text">只是一些字母，它会给 %1$s 带来一些个人感触</string>
+    <string name="draft_feature_letters00_title">字母装饰</string>
+    <string name="draft_feature_letters00_text">可用于装饰放置的字母</string>
 
 
 </resources>
